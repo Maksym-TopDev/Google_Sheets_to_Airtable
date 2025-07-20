@@ -23,7 +23,3 @@ The endpoint is accessible via HTTP. You can make calls to them via the [lib-js]
 This endpoint will retrieve all the rows from the linked Google Sheet, loop through their values, and create records over in the linked Airtable Base.
 
 ![](./images/base-copied-content.png)
-
-## Thank You!
-
-Please check out [Autocode](https://autocode.com) or follow us on Twitter, [@AutocodeHQ](https://twitter.com/AutocodeHQ).
